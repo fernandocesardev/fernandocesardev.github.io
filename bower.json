@@ -1,0 +1,16 @@
+{
+  "name": "fernandorenesto",
+  "license": "MIT",
+  "ignore": [
+    "package.json"
+  ],
+  "keywords": [
+    "fernando",
+    "renesto",
+    "webdesigner",
+    "front-end"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
